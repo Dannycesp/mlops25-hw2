@@ -43,7 +43,7 @@ How many files were saved to `OUTPUT_FOLDER`?
 
 * 1
 * 3
-* 4
+* 4 ✓
 * 7
 
 
@@ -67,7 +67,7 @@ Tip 2: don't modify the hyperparameters of the model to make sure that the train
 
 What is the value of the `min_samples_split` parameter:
 
-* 2
+* 2 ✓
 * 4
 * 8
 * 10
