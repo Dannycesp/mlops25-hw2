@@ -1,5 +1,8 @@
 ## Homework
 
+Solutions to the Datatalksclub MLOPS zoomcamp homework 2 (experiment tracking)
+[Original homework](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/cohorts/2025/02-experiment-tracking/homework.md)
+
 The goal of this homework is to get familiar with MLflow, the tool for experiment tracking and 
 model management.
 
