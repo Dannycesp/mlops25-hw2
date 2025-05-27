@@ -110,10 +110,12 @@ The idea is to just log the information that you need to answer the question bel
 
 What's the best validation RMSE that you got?
 
-* 4.817
+* 4.817 ✓
 * 5.335
 * 5.818
 * 6.336
+
+![MLflow Experiments](images/mlflow_experiments_random-forest-hyperopt.png)
 
 
 ## Q6. Promote the best model to the model registry
