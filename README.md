@@ -86,7 +86,7 @@ You should keep the tracking server running to work on the next two exercises th
 
 In addition to `backend-store-uri`, what else do you need to pass to properly configure the server?
 
-* `default-artifact-root`
+* `default-artifact-root` ✓
 * `serve-artifacts`
 * `artifacts-only`
 * `artifacts-destination`
