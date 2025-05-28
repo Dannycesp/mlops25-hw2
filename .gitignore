@@ -26,10 +26,10 @@ mlflow.db
 mlruns/
 artifacts/
 output/
+*.egg
 
 # History files
 history/
-*.egg
 
 # Environment
 .env
@@ -43,4 +43,3 @@ ENV/
 .vscode/
 *.swp
 *.swo
-history/
