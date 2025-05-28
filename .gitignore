@@ -19,6 +19,16 @@ var/
 wheels/
 *.egg-info/
 .installed.cfg
+
+# MLflow
+data/
+mlflow.db
+mlruns/
+artifacts/
+output/
+
+# History files
+history/
 *.egg
 
 # Environment
